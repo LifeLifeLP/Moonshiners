@@ -1,2 +1,2 @@
-# MoonshinersTheGame
-MoonshinersTheGame
+# Moonshiners
+Moonshiners
