@@ -4,4 +4,11 @@
       <groupId>de.lifelifelp</groupId>
       <artifactId>moonshiners</artifactId>
       <version>1</version>
+<dependencies>
+<dependency>
+  <groupId>de.gurkenlabs</groupId>
+  <artifactId>litiengine</artifactId>
+  <version>0.5.1</version>
+    </dependency>
+        </dependencies>
     </project>
